@@ -5,7 +5,7 @@ Chrome browser extension that is builded for hunting malicious , phising and oth
 **How to use our Phishing Detection Chrome Extension**
 
 STEP 1 : Download the folder named CamsGuard.zip file from here
-          link for downloading:
+          link for downloading: https://github.com/MidhunNochi/CAMS-Guard.git
 
 STEP 2 : Unzip the file from the Downloaded Location
 
