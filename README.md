@@ -1,5 +1,5 @@
 # CAMS-Guard
-Chrome browser extension that is builded for hunting malicious , phising and other fake URL's in real-time
+Chrome browser extension that is builded for hunting malicious , phishing and other fake URL's in real-time
 
 
 **How to use our Phishing Detection Chrome Extension**
@@ -13,7 +13,7 @@ STEP 3 : Open your Chrome Browser and search for **chrome://extensions/** in the
 
 STEP 4 : Switch to **Developer Mode** in the chrome Browser
 
-STEP 5 : Navigate to >> **Load unpacked **
+STEP 5 : Navigate to >> **Load unpacked**
 
 STEP 6 : Navigate to unzipped file and load the extension. After that you can use our extension normally in your Chrome Browser.
 
